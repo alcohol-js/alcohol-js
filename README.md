@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alcohol-js
-- 👀 My hobbies are photography and cocktails
-- 🌱 I’m currently learning vue
+- 👀 喜欢摄影和调酒
+- 🌱 vue学习ing...
 - 📫 How to reach me :
 -  
 
